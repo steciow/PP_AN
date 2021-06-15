@@ -1,0 +1,32 @@
+Clas. Económico,Desc ec2,Desc ec3,Desc ec4
+2121,Gastos Corrientes,Gastos de Consumo,Remuneraciones
+2122,Gastos Corrientes,Gastos de Consumo,Bienes y Servicios
+2123,Gastos Corrientes,Gastos de Consumo,Impuestos Indirectos
+2131,Gastos Corrientes,Intereses y Otras Rentas de la Propiedad,Intereses
+2132,Gastos Corrientes,Intereses y Otras Rentas de la Propiedad,Arrendamiento de Tierras y Terrenos
+2133,Gastos Corrientes,Intereses y Otras Rentas de la Propiedad,Rentas sobre Bienes Intangibles
+2140,Gastos Corrientes,Prestaciones de la Seguridad Social,Prestaciones de la Seguridad Social
+2150,Gastos Corrientes,Impuestos Directos,Impuestos Directos
+2160,Gastos Corrientes,Otras Pérdidas,Otras Pérdidas
+2171,Gastos Corrientes,Transferencias Corrientes,Al Sector Privado
+2172,Gastos Corrientes,Transferencias Corrientes,Al Sector Público
+2173,Gastos Corrientes,Transferencias Corrientes,Al Sector Externo
+2181,Gastos Corrientes,Gastos Figurativos para Transacciones Corrientes,A la Administración Nacional
+2211,Gastos de Capital,Inversión Real Directa,Formación Bruta de Capital Fijo
+2213,Gastos de Capital,Inversión Real Directa,Tierras y Terrenos
+2214,Gastos de Capital,Inversión Real Directa,Activos Intangibles
+2221,Gastos de Capital,Transferencias de Capital,Al Sector Privado
+2222,Gastos de Capital,Transferencias de Capital,Al Sector Público
+2223,Gastos de Capital,Transferencias de Capital,Al Sector Externo
+2231,Gastos de Capital,Inversión Financiera,Aportes de Capital y Compra de Acciones
+2232,Gastos de Capital,Inversión Financiera,Concesión de Préstamos de Corto Plazo
+2236,Gastos de Capital,Inversión Financiera,Concesión de Préstamos de Largo Plazo
+2241,Gastos de Capital,Gastos Figurativos para Transacciones de Capital,A la Administración Nacional
+2313,Aplicaciones Financieras,Inversión Financiera,Adquisición de Títulos y Valores
+2314,Aplicaciones Financieras,Inversión Financiera,Incremento de Otros Activos Financieros
+2325,Aplicaciones Financieras,Amortización de la Deuda y Disminución de Otros Pasivos,Disminución de Otros Pasivos
+2326,Aplicaciones Financieras,Amortización de la Deuda y Disminución de Otros Pasivos,Amortización de Deuda Colocada en Moneda Nacional a Largo Plazo
+2327,Aplicaciones Financieras,Amortización de la Deuda y Disminución de Otros Pasivos,Amortización de Deuda Colocada en Moneda Extranjera a Largo Plazo
+2328,Aplicaciones Financieras,Amortización de la Deuda y Disminución de Otros Pasivos,Amortización de Préstamos a Largo Plazo
+2329,Aplicaciones Financieras,Amortización de la Deuda y Disminución de Otros Pasivos,Cancelación de Deuda no Financiera
+2341,Aplicaciones Financieras,Gastos Figurativos para Aplicaciones Financieras,A la Administración Nacional
