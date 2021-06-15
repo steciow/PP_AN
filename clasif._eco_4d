@@ -1,0 +1,46 @@
+Clas. Económico,Desc ec2,Desc ec3,Desc ec4
+2111,Gastos corrientes,Gastos de operación,Remuneraciones
+2112,Gastos corrientes,Gastos de operación,Bienes y servicios
+2113,Gastos corrientes,Gastos de operación,Impuestos
+2114,Gastos corrientes,Gastos de operación,Amortización
+2115,Gastos corrientes,Gastos de operación,Previsiones
+2116,Gastos corrientes,Gastos de operación,Descuentos y bonificaciones
+2121,Gastos corrientes,Gastos de consumo,Remuneraciones
+2122,Gastos corrientes,Gastos de consumo,Bienes y servicios
+2123,Gastos corrientes,Gastos de consumo,Impuestos
+2124,Gastos corrientes,Gastos de consumo,Amortización
+2125,Gastos corrientes,Gastos de consumo,Previsiones y reservas técnicas
+2131,Gastos corrientes,Rentas de la propiedad,Intereses
+2132,Gastos corrientes,Rentas de la propiedad,Arrendamiento de tierras y terrenos
+2133,Gastos corrientes,Rentas de la propiedad,Derechos sobre bienes intangibles
+2140,Gastos corrientes,Prestaciones de la seguridad social,Prestaciones de la seguridad social
+2150,Gastos corrientes,Otras pérdidas,Otras pérdidas
+2180,Gastos corrientes,Sin clasif.,Sin clasif.
+2161,Gastos corrientes,Transferencias corrientes,Transferencias corrientes al sector privado
+2162,Gastos corrientes,Transferencias corrientes,Transferencias corrientes al sector público
+2211,Gastos de capital,Inversión real directa,Formación bruta de capital fijo
+2212,Gastos de capital,Inversión real directa,Tierras y terrenos
+2213,Gastos de capital,Inversión real directa,Activos intangibles
+2221,Gastos de capital,Transferencias de capital,Transferencias de capital al sector privado
+2222,Gastos de capital,Transferencias de capital,Transferencias de capital al sector público
+2231,Gastos de capital,Inversión financiera,Aportes de capital
+2232,Gastos de capital,Inversión financiera,Concesión de préstamos de corto plazo
+2233,Gastos de capital,Inversión financiera,Concesión de préstamos a largo plazo
+2250,Gastos de capital,Sin clasif.,Sin Clasif.
+2311,Aplicaciones financieras,Inversión financiera,Aportes de capital (aplicación financiera)
+2312,Aplicaciones financieras,Inversión financiera,Concesión de préstamos de corto plazo
+2313,Aplicaciones financieras,Inversión financiera,Adquisición de títulos y valores
+2314,Aplicaciones financieras,Inversión financiera,Incremento de otros activos financieros
+2315,Aplicaciones financieras,Inversión financiera,Concesión de préstamos a largo plazo
+2321,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Amortización deuda interna a corto plazo
+2322,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Amortización deuda externa a corto plazo
+2323,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Amortización de préstamos a corto plazo
+2324,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Disminución de otros pasivos
+2325,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Amortización deuda interna a largo plazo
+2326,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Amortización deuda externa a largo plazo
+2327,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Amortización de préstamos a largo plazo
+2328,Aplicaciones financieras,Amortización de la deuda y disminución de otros pasivos,Conversión de la deuda a largo plazo en a corto plazo
+2331,Aplicaciones financieras,Disminución del patrimonio,Disminución de capital
+2332,Aplicaciones financieras,Disminución del patrimonio,Disminución de las reservas
+2333,Aplicaciones financieras,Disminución del patrimonio,Disminución de resultados acumulados
+2350,Aplicaciones financieras,Sin clasif.,Sin Clasif.
